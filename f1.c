@@ -2,7 +2,7 @@
 int main()
 {
 
-printf("f1_test_1");
+printf("f1_test_2");
 
 return 0;
 }
